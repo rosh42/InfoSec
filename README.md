@@ -1,4 +1,4 @@
 # A test file to check the pages
 
-[HTB](/Writeups/Machines/HTB/codify.md)
+[HTB](/Writeups/Machines/HTB/Codify.md)
 
