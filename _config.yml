@@ -2,3 +2,6 @@
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+url: https://rosh42.github.io/InfoSec/
+baseurl: /InfoSec
